@@ -1,0 +1,30 @@
+{
+  "chart_left": 106,
+  "chart_top": 147,
+  "chart_right": 1659,
+  "chart_bottom": 1001,
+  "green_rgb": [
+    16,
+    160,
+    85
+  ],
+  "red_rgb": [
+    205,
+    65,
+    50
+  ],
+  "color_tolerance": 35,
+  "buy_button": [
+    1826,
+    275
+  ],
+  "sell_button": [
+    1822,
+    309
+  ],
+  "entry_delay_seconds": 0,
+  "clock_offset_seconds": 0,
+  "telegram_bot_token": "",
+  "telegram_chat_id": "",
+  "ativo": ""
+}

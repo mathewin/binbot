@@ -1,0 +1,31 @@
+{
+  "chart_left": 108,
+  "chart_top": 194,
+  "chart_right": 1653,
+  "chart_bottom": 1024,
+  "up_rgb": [
+    30,
+    155,
+    91
+  ],
+  "down_rgb": [
+    232,
+    91,
+    77
+  ],
+  "color_tolerance": 35,
+  "buy_button": [
+    1801,
+    393
+  ],
+  "sell_button": [
+    1843,
+    436
+  ],
+  "entry_delay_seconds": 0,
+  "clock_offset_seconds": 0,
+  "valor_field": [
+    1807,
+    321
+  ]
+}
